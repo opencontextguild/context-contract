@@ -14,9 +14,9 @@ Status: **early draft** (v0.1 in preparation). Stewarded by the [Open Context Gu
 | # | Problem | Difficulty |
 |---|---|---|
 | [#1](../../issues/1) | Trust ≠ Validity | ●●○ |
-| [#2](../../issues/2) | When should an agent stop? | ●●● |
+| [#2](../../issues/2) | When should an agent stop? | ●●○ |
 | [#3](../../issues/3) | Permitted use that travels | ●●● |
-| [#4](../../issues/4) | The Two-Agent Test | ●●○ |
+| [#4](../../issues/4) | The Two-Agent Test | ●●● |
 | [#5](../../issues/5) | Local meaning, global agents | ●○○ good first contribution |
 
 Pick one and comment on the issue to claim it or join in.

@@ -22,6 +22,6 @@ Status: **early draft** (v0.1 in preparation). Stewarded by the [Open Context Gu
 Pick one and comment on the issue to claim it or join in.
 
 ## Licence
-Specification text: CC BY 4.0 · Code: MIT (see `LICENSE`).
+Specification text: CC BY 4.0 (see `LICENSE-docs.md`) · Code: MIT (see `LICENSE`).
 
 *Draft landscape; no affiliation with W3C, Google or the groups mentioned is implied.*
